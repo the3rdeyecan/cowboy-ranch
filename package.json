@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "game-prompt": "^0.0.3",
+    "keypress-tool": "^2.1.0"
+  },
+  "name": "index.js",
+  "version": "0.0.1",
+  "description": "cowboy-ranch",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Verma",
+  "license": "ISC"
+}
